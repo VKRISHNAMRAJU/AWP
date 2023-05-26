@@ -1,0 +1,16 @@
+h2 {
+    color: orange;
+    font-family: Georgia;
+  }
+  
+  p {
+    color: brown;
+    font-size: 19px;
+  }
+  
+  div {
+    background-color: cyan;
+    font-size: 100px;
+    width: 1000px;
+    height: 300px;
+  }
